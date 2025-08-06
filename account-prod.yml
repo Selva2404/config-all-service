@@ -2,7 +2,7 @@ build:
   version: "2.0.1"
 
 service:
-  name: kumar-prod
+  name: kokki kumar-prod
   contact:
     mail-id: kumar@gmail.com
     cabin: A88
