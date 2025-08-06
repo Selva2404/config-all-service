@@ -4,7 +4,7 @@ server:
 build:
   version: "2.0.1"
 
-service:
+cards:
   name: muthuga-dev
   contact:
     mail-id: muthuga@gmail.com
