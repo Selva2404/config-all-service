@@ -4,7 +4,7 @@ server:
 build:
   version: "3.0.2"
 
-service:
+loans:
  name: senthilr-dev
  contact:
   mail-id: senthilr@gmail.com
