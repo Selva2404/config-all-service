@@ -1,7 +1,7 @@
 build:
   version: "2.0.1"
 
-service:
+cards:
   name: sriniva-prod
   contact:
     mail-id: sriniva@gmail.com
