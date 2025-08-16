@@ -2,7 +2,7 @@ build:
   version: "2.0.1"
 
 service:
-  name: kokki guru-prod wertyuio
+  name: kokki guru-prod xcvbnm
   contact:
     mail-id: kumar@gmail.com
     cabin: A88
