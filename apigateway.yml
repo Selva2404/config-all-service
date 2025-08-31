@@ -1,0 +1,11 @@
+server:
+ port: 8300
+spring:
+ cloud:
+  gateway:
+   routes:
+    -id: account
+     uri: "lb://account"
+     pradicate:
+      -path:"/account/**"
+    
