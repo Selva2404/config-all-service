@@ -5,7 +5,15 @@ spring:
   gateway:
    routes:
     -id: account
-     uri: "lb://account"
+     uri: "lb://ACCOUNT"
      pradicate:
       -path:"/account/**"
+    -id: cards
+     uri: "lb://CARDS"
+     pradicate:
+      -path:"/cards/**"
+    -id: loans
+     uri: "lb://LOANS"
+     pradicate:
+      -path:"/loans/**"
     
